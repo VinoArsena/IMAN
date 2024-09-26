@@ -1,0 +1,7 @@
+Kelompok 7 - Inventory Management (IMAN)
+Ivan Yonathan Siwu - 2602062261	
+Jose Juan Susanto - 2602055602
+Vino Arsena Loanda - 260208207
+
+
+Disini, grup kami setelah mendapatkan beberapa saran dari Bu Kartika, kami merasa adanya beberapa kekurangan dari Project kami. Karena itu, kami berpikir keras dan mencoba untuk menambahkan beberapa feature. Kita telah menambahkan fitur 'Delete-All' dimana di Java kita tertulis 'Clear Inventory'. Juga untuk display Inventory, kami sudah menambahkan sorting berdasarkan alfabet, dimana dia ascending, dan selain itu bisa juga di sorting berdasarkan Genre (Electronics, Clothing, Generic), dimana dia akan langsung mengsort dan akan ada title untuk setiap pergantian genre. Hal ini akan berpengaruh terhadap Class Diagram dan Laporan awal, dimana terdapat beberapa fitur atau method yang perlu ditambahkan ke dalam kedua file tersebut.
